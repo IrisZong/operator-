@@ -26,7 +26,7 @@ public class operator {
     // System.out.println(" ++a + b-a is "+(++a + b-a));
 
      c= (a >= (b*a));
-     System.out.println(c);
+     System.out.println("the c is :"+c);
 
  
 }
